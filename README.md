@@ -1,3 +1,3 @@
-# Pagespeed Insights Connector
+# PageSpeed Insights Connector
 
 Coming soon!
